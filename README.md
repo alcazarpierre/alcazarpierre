@@ -2,9 +2,10 @@
 <h3 align="center">A passionate developer from Peru</h3>
 
 - 🔭 I’m currently working on **my bootcamp´s final project**
+- 
 
 - 🌱 I’m currently learning **JavaScript React Redux NodeJS Sequelize Express PostgreSQL**
-
+- I am very interested in analyzing processes to be able to contribute to their efficiency. I enjoy working on functional solutions that provide a better user experience.
 - 📫 How to reach me **alcazarpierre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
