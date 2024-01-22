@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pierre Alcazar</h1>
 <h3 align="center">A passionate developer from Peru</h3>
 
-- 🔭 I’m currently working on **my bootcamp´s final project**
+- 🔭 I’m currently working on **WellHome App** a web application for condominium management.
 - 
 
-- 🌱 I’m currently learning **JavaScript React Redux NodeJS Sequelize Express PostgreSQL**
+- 🌱 I am currently developing a personal project and strengthening my technical knowledge **JavaScript React Redux NodeJS Sequelize Express PostgreSQL**
 - I am very interested in analyzing processes to be able to contribute to their efficiency. I enjoy working on functional solutions that provide a better user experience.
 - 📫 How to reach me **alcazarpierre@gmail.com**
 
