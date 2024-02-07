@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Peru</h3>
 
 - 🔭 I’m currently working on **WellHome App** a web application for condominium management.
-- 
+- If you want to see my private projects, send me a message.
 
 - 🌱 I am currently developing a personal project and strengthening my technical knowledge **JavaScript React Redux NodeJS Sequelize Express PostgreSQL**
 - I am very interested in analyzing processes to be able to contribute to their efficiency. I enjoy working on functional solutions that provide a better user experience.
